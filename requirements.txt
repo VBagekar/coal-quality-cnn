@@ -1,0 +1,11 @@
+opencv-python
+numpy
+pandas
+matplotlib
+tensorflow
+scikit-learn
+tqdm
+flask
+tensorflow
+numpy
+opencv-python
